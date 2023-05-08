@@ -25,5 +25,6 @@ int main()
 {
     manusia m;
     pelajar p;
+    m.showNilaiPelajar(p);
     return 0;
 }
